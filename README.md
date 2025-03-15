@@ -1,5 +1,5 @@
 # Hi 👋, I'm Marcos Tolosa (aka 0xHaze)
-### Cybersecurity Specialist, Hacker && AI Enthusiast
+### Cybersecurity Specialist | Hacker && AI Enthusiast
 
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=marcos-tolosa)
 
