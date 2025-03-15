@@ -4,7 +4,6 @@
 [![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=marcos-tolosa)
 
 
-- 📔 I’m founder and CEO of [MindSec](https://mindsecurity.org/)
 - 📚 I’m currently learning **Deep Learning and AI Autonomous Agents**
 - 📝 I regularly (or not) write posts and articles on [https://www.linkedin.com/in/marcos-tolosa](https://www.linkedin.com/in/marcos-tolosa)
 - 📫 How to reach me **marcos.tolosa@owasp.org**
