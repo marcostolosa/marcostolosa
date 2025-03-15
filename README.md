@@ -6,7 +6,7 @@
 
 - 📔 I’m founder and CEO of [MindSec](https://mindsecurity.org/)
 - 📚 I’m currently learning **Deep Learning and AI Autonomous Agents**
-- 📝 I regularly (or not) write posts and articles on [https://www.linkedin.com/ini/marcos-tolosa]([https://www.helviojunior.com.br](https://www.linkedin.com/ini/marcos-tolosa))
+- 📝 I regularly (or not) write posts and articles on [https://www.linkedin.com/ini/marcos-tolosa](https://www.linkedin.com/ini/marcos-tolosa)
 - 📫 How to reach me **marcos.tolosa@owasp.org**
 
 ### Connect with me:
