@@ -1,4 +1,4 @@
-# Hi 👋, I'm Marcos Tolosa (aka 0xHaze)
+# Hi 👋, I'm Marcos Tolosa (aka Haze OR 0xHaze)
 ### Cyber Security Specialist | Hacker && AI | ML Enthusiast
 
 
