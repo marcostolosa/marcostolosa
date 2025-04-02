@@ -23,7 +23,7 @@ Sou especialista em Segurança Ofensiva, com +10 anos de experiência prática e
 
 ---
 
-### 🧠 Áreas de Atuação Especializadas
+### 🧠 Áreas de Atuação 
 
   - #### **Red Teaming & Emulação de APTs**:
     
