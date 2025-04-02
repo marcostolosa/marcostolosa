@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Marcos Tolosa (aka Haze | 0xHaze)
-### 🧠 Red Team Lead | Prompt Engineer | AI x Offensive Security | DevSecOps & MLOps
+### Red Team Lead | Prompt Engineer | AI x Offensive Security | DevSecOps & MLOps
 
 <div> 
   <a href = "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=marcos-tolosa"><img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
@@ -35,4 +35,4 @@ Sou especialista em Segurança Ofensiva, com +10 anos de experiência prática e
 
 ### 🏆 Reconhecimentos
 - 🥇 Top 1 Brasil @ Hack The Box
-- 🌍 Top 100 Global Hall of Fame
+- 🌍 Top 100 Global Hall of Fame @ HackTheBox
