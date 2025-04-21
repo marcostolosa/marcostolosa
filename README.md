@@ -13,15 +13,30 @@ Sou especialista em Segurança Ofensiva, com +10 anos de experiência prática e
 - 🌎 Participo ativamente da comunidade Hack The Box e mantenho projetos open source
 - 📫 Contato: **marcos.tolosa@owasp.org** | [LinkedIn](https://www.linkedin.com/in/marcos-tolosa)
 
-### ⚙️ Linguagens & Ferramentas
-<div>
-  <a ><img src="https://img.shields.io/badge/Languages:-Python%20%7C%20JavaScript%20%7C%20Bash%20%7C%20PowerShell-blue" target="_blank"></a>
-</div>
-<div>
-   <a ><img src="https://img.shields.io/badge/Tools:-BurpSuite%20%7C%20Frida%20%7C%20Ghidra%20%7C%20Nmap%20%7C%20ffuf%20%7C%20SQLMap%20%7C%20BloodHound%20%7C%20Ollama-red" target="_blank"></a>
-</div>
-
 ---
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Haze-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="center" alt="Haze-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" alt="Haze-Powershell" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+<img align="center" alt="Haze-Bash" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="center" alt="Haze-JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center" alt="Haze-GitHubActions" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img align="center" alt="Haze-Golang" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+<img align="center" alt="Haze-Cloudflare" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
+<img align="center" alt="Haze-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" alt="Haze-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="center" alt="Haze-aws" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img align="center" alt="Haze-terraform" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+<img align="center" alt="Haze-selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+<img align="center" alt="Haze-tensorflow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+<img align="center" alt="Haze-scikitlearn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
+<img align="center" alt="Haze-pytorch" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+<img align="center" alt="Haze-vim" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+<img align="center" alt="Haze-kubernetes" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
+
+</div>
 
 ### 🧠 Áreas de Atuação 
 
@@ -58,3 +73,11 @@ Sou especialista em Segurança Ofensiva, com +10 anos de experiência prática e
 ### 🏆 Reconhecimentos
 - 🥇 Top 1 Brasil @ Hack The Box
 - 🌍 Top 100 Global Hall of Fame @ HackTheBox
+
+---
+
+<div>
+  <a href="https://github.com/marcostolosa">
+  <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcostolosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostolosa&layout=compact&langs_count=7&theme=dracula"/>
+</div>
