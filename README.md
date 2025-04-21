@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Marcos Tolosa (aka Haze | 0xHaze)
 ### Red Team Engineer | Prompt Architect | AI x Offensive Security | DevSecOps | MLOps
 
+[![0xHaze](https://www.hackthebox.eu/badge/image/44238)](https://app.hackthebox.eu/profile/44238)
+
 <div> 
   <a href = "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=marcos-tolosa"><img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
   <a href = "mailto:marcos.tolosa@owasp.org"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
