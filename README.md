@@ -89,6 +89,6 @@ Sou especialista em Segurança Ofensiva, com +10 anos de experiência prática e
 
 <div>
   <a href="https://github.com/marcostolosa">
-      <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only"/>
-      <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostolosa&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
+      <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcostolosa&show_icons=true&locale=pt-br&theme=dark#gh-dark-mode-only"/>
+      <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostolosa&layout=compact&locale=pt-br&langs_count=7&theme=dark#gh-dark-mode-only"/>
 </div>
