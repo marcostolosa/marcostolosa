@@ -35,7 +35,18 @@ Sou especialista em Segurança Ofensiva, com +10 anos de experiência prática e
 <img align="center" alt="Haze-pytorch" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
 <img align="center" alt="Haze-vim" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 <img align="center" alt="Haze-kubernetes" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
-
+<img align="center" alt="Haze-Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+<img align="center" alt="Haze-Ansible" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
+<img align="center" alt="Haze-Azure" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" />
+<img align="center" alt="Haze-Arduino" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" />
+<img align="center" alt="Haze-Django" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
+<img align="center" alt="Haze-FastAPI" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" />
+<img align="center" alt="Haze-Figma" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+<img align="center" alt="Haze-Flask" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
+<img align="center" alt="Haze-GoogleCloud" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
+<img align="center" alt="Haze-Matplotlib" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" />
+<img align="center" alt="Haze-NumPy" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />
+<img align="center" alt="Haze-Pandas" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 </div>
 
 ### 🧠 Áreas de Atuação 
