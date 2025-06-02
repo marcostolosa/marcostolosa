@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Marcos Tolosa (aka Haze | 0xHaze)
+# 👋 Olá, eu sou Marcos Tolosa (aka Haze)
 ### Red Team Engineer | Prompt Architect | AI x Offensive Security | DevSecOps | MLOps
 
 <div> 
