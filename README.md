@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Marcos Tolosa (aka Haze)
-### Red Team Engineer | Prompt Architect | AI x Offensive Security | DevSecOps | MLOps
+### Red Team Engineer | Prompt Architect | RE | AI x Offensive Security | DevSecOps 
 
 <div> 
   <a href = "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=marcos-tolosa"><img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
