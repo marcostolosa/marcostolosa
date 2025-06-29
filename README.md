@@ -6,11 +6,11 @@
   <a href = "mailto:marcos.tolosa@owasp.org"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Sou especialista em Segurança Ofensiva, com +10 anos de experiência prática em Red Team, engenharia reversa, automação de ataques com LLMs e integração de IA com segurança cibernética. Neurodivergente (TEA Nível 1), uso meu foco analítico como superpoder para transformar ataques complexos em conhecimento acessível.
+Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em Red Team, engenharia reversa e integração de IA com segurança cibernética. Neurodivergente (TEA Nível 1), uso meu foco analítico como superpoder para transformar ataques complexos em conhecimento acessível.
 
-- 🧠 Ensino técnicas de IA ofensiva, engenharia reversa, recon e análise com LLMs
-- 🔍 Atualmente explorando IA autônoma, GDB com LLMs (MCP) e análise de código automática
-- 🌎 Participo ativamente da comunidade Hack The Box e mantenho projetos open source
+- 🧠 Ensino técnicas de Segurança Ofensiva, Engenharia Reversa, Recon e Análises com LLMs
+- 🔍 Atualmente explorando IA autônoma, GDB com LLMs (MCP) e análise de código automática com ML
+- 🌎 Participo ativamente da comunidade de CTFs (HackTheBox) e mantenho projetos open source
 - 📫 Contato: **marcos.tolosa@owasp.org** | [LinkedIn](https://www.linkedin.com/in/marcos-tolosa)
 
 ---
@@ -58,7 +58,7 @@ Sou especialista em Segurança Ofensiva, com +10 anos de experiência prática e
 
   - #### **Exploração & Engenharia Reversa Profunda**:
     
-    Desenvolvimento e modificação de exploits personalizados, ROP/JOP chains, análise estática e dinâmica com `Frida`, `Ghidra`, `Objection`, shellcode crafting e bypass de EDR.
+    Desenvolvimento e modificação de exploits personalizados, ROP/JOP chains, análise estática e dinâmica com `GDB-pwndbg`, `Frida`, `Ghidra`, `Objection`, `x64dbg`,  shellcode crafting e bypass de EDR.
 
   - #### **AI/ML Aplicados à Segurança Ofensiva**:
     
@@ -76,7 +76,7 @@ Sou especialista em Segurança Ofensiva, com +10 anos de experiência prática e
   
   - #### **Ferramentas e Stack Técnica**:
     
-    BurpSuite Pro (avançado), Frida, Objection, Ghidra, SQLmap, ffuf, Nmap, mitmproxy, tshark.
+    BurpSuite Pro (avançado), Frida, Radare2, Ghidra, ffuf, Nmap, SQLMap, Impacket, mitmproxy, tshark, entre outras.
     Scripts ofensivos em `Python`, `JavaScript`, `Bash`, `PowerShell`. Automatizações com Regex, JQ, Shellcode encoders, DNS stealth, RE automation.
 
 ---
