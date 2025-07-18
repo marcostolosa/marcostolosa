@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou Marcos Tolosa (aka Haze|Tr0p)
-### Red Team Engineer | Prompt Architect | RE | AI x Offensive Security | DevSecOps 
+### Red Team Engineer | AI x Offensive Security | DevSecOps 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=525&height=180&lines=rlwrap+ncat+-vnlp+1337;Ncat%3A+Listening+on+%5Bany%5D+1337;Ncat%3A+Connection+from+192.168.1.1%3A443.;PS+C%3A%5CUsers%5CAdministrator%3E++.%5Cpwn.exe;.......................Pwn3d!)](https://git.io/typing-svg)
 
@@ -8,11 +8,11 @@
   <a href = "mailto:marcos.tolosa@owasp.org"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em Red Team, engenharia reversa e integração de IA com segurança cibernética. Neurodivergente (TEA Nível 1), uso meu foco analítico como superpoder para transformar ataques complexos em conhecimento acessível.
+Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em Red Team, engenharia reversa e integração de IA com segurança cibernética. Neurodivergente (TEA Nível 1), uso meu foco analítico como superpoder para transformar ataques complexos em conhecimento acessível para todos.
 
-- 🧠 Ensino técnicas de Segurança Ofensiva, Engenharia Reversa, Recon e Análises com LLMs
-- 🔍 Atualmente explorando IA autônoma, GDB com LLMs (MCP) e análise de código automática com ML
-- 🌎 Participo ativamente da comunidade de CTFs (HackTheBox) e mantenho projetos open source
+- 🧠 Ensino técnicas de Segurança Ofensiva, Engenharia Reversa e Análises com LLMs/MCP/Agents
+- 🔍 Atualmente explorando IA autônoma, GDB com LLMs/MCP/Agents e análise de código com ML
+- 🌎 Participo ativamente da comunidade de CTFs (HTB, TCM, VulnHub, pwn.college, crackmes.one, etc) e mantenho projetos open source
 - 📫 Contato: **marcos.tolosa@owasp.org** | [LinkedIn](https://www.linkedin.com/in/marcos-tolosa)
 
 ---
@@ -60,7 +60,7 @@ Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em
 
   - #### **Exploração & Engenharia Reversa Profunda**:
     
-    Desenvolvimento e modificação de exploits personalizados, ROP/JOP chains, análise estática e dinâmica com `GDB-pwndbg`, `Frida`, `Ghidra`, `Objection`, `x64dbg`,  shellcode crafting e bypass de EDR.
+    Desenvolvimento e modificação de exploits personalizados, ROP/JOP chains, análise estática e dinâmica com `GDB-pwndbg`, `Frida`, `Ghidra`, `pwntools`, `x64dbg`,  shellcode crafting e bypass de EDR.
 
   - #### **AI/ML Aplicados à Segurança Ofensiva**:
     
@@ -69,7 +69,7 @@ Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em
 
   - #### **AppSec & DevSecOps Avançado**:
     
-    SAST, DAST, revisão de código, Threat Modeling (STRIDE, CVSS), segurança em containers, pipelines `GitHub Actions`, `Terraform` e `Kubernetes` com hardening.
+    SAST, DAST, revisão de código, Threat Modeling (STRIDE, CVSS, CWE, Mitre), segurança em containers, pipelines `GitHub Actions`, `Terraform` e `Kubernetes` com hardening.
     Evangelizador de cultura DevSecOps com foco em automação contínua e SDLC seguro.
 
   - #### **Segurança Cloud & Arquitetura Segura**:
@@ -81,10 +81,6 @@ Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em
     BurpSuite Pro (avançado), Frida, Radare2, Ghidra, ffuf, Nmap, SQLMap, Impacket, mitmproxy, tshark, entre outras.
     Scripts ofensivos em `Python`, `JavaScript`, `Bash`, `PowerShell`. Automatizações com Regex, JQ, Shellcode encoders, DNS stealth, RE automation.
 
----
-
-### 🏆 Reconhecimentos
-- 🌍 Top 100 Global Hall of Fame @ HackTheBox
 
 ---
 
