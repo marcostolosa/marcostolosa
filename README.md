@@ -12,7 +12,7 @@ Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em
 
 - 🧠 Ensino técnicas de Segurança Ofensiva, Engenharia Reversa e Análises com LLMs/MCP/Agents
 - 🔍 Atualmente explorando IA autônoma, GDB com LLMs/MCP/Agents e análise de código com ML
-- 🌎 Participo ativamente da comunidade de CTFs (HTB, TCM, VulnHub, pwn.college, crackmes.one, etc) e mantenho projetos open source
+- 🌎 Participo ativamente da comunidade de CTFs (HTB, TCM, VulnHub, pwn.college, crackmes.one, etc) e projetos open source
 - 📫 Contato: **marcos.tolosa@owasp.org** | [LinkedIn](https://www.linkedin.com/in/marcos-tolosa)
 
 ---
