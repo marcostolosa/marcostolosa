@@ -1,5 +1,4 @@
 # 👋 Olá, eu sou Marcos Tolosa (aka Haze|Tr0p)
-### Red Team Engineer | AI x Offensive Security | DevSecOps 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=525&height=180&lines=rlwrap+ncat+-vnlp+1337;Ncat%3A+Listening+on+%5Bany%5D+1337;Ncat%3A+Connection+from+192.168.1.1%3A443.;PS+C%3A%5CUsers%5CAdministrator%3E++.%5Cpwn.exe;.......................Pwn3d!)](https://git.io/typing-svg)
 
