@@ -7,7 +7,7 @@
   <a href = "mailto:marcos.tolosa@owasp.org"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em Red Team, engenharia reversa e integração de IA com segurança cibernética. Neurodivergente (TEA Nível 1), uso meu foco analítico como superpoder para transformar ataques complexos em conhecimento acessível para todos.
+Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em Red Team, Penetration Tests, Engenharia Reversa, automatizações e integrações de IA com segurança cibernética. Neurodivergente (TEA Nível 1), uso meu foco analítico como superpoder para transformar ataques complexos em conhecimento acessível para todos.
 
 - 🧠 Ensino técnicas de Segurança Ofensiva, Engenharia Reversa e Análises com LLMs/MCP/Agents
 - 🔍 Atualmente explorando IA autônoma, GDB com LLMs/MCP/Agents e análise de código com ML
