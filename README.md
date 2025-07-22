@@ -29,7 +29,7 @@ Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em
 <img align="center" alt="Haze-Cloudflare" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
 <img align="center" alt="Haze-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="center" alt="Haze-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="center" alt="Haze-aws" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/firebase/firebase-original.svg" />
+<img align="center" alt="Haze-aws" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/opencl/opencl-original.svg" />
 <img align="center" alt="Haze-terraform" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 <img align="center" alt="Haze-selenium" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img align="center" alt="Haze-tensorflow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
