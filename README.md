@@ -58,7 +58,7 @@ Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em
 
   - #### **Exploração & Engenharia Reversa Profunda**:
     
-    Desenvolvimento e modificação de exploits personalizados, ROP/JOP chains, análise estática e dinâmica com `GDB-pwndbg`, `Frida`, `Ghidra`, `pwntools`, `x96dbg`,  shellcode crafting e bypass de EDR.
+    Desenvolvimento e modificação de exploits personalizados, ROP/JOP chains, análise estática e dinâmica com `GDB-pwndbg`, `Frida`, `Ghidra`, `pwntools`, `x96dbg`, `Qiling`, `IDA Pro`, `Semgrep`  shellcode crafting e bypass de EDR.
 
   - #### **AI/ML Aplicados à Segurança Ofensiva**:
     
