@@ -10,7 +10,7 @@
 Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em Red Team, Penetration Tests, Engenharia Reversa, automatizações e integrações. Neurodivergente (TEA Nível 1), uso meu foco analítico como superpoder para transformar ataques complexos em conhecimento acessível para todos.
 
 - 🧠 Ensino técnicas de Segurança Ofensiva, Engenharia Reversa e Segurança de Aplicações 
-- 🌎 Participo ativamente da comunidade de CTFs (HTB, THM, pwn.college, crackmes.one, MalwareBazaar, VulnHub, PicoCTF, KasperskyCTF, Pentestit.ru, Pwnable.tw, OverTheWire, RootMe, CTFTime, GoogleCTF, SANS, DEFCON, etc)
+- 🌎 Participo ativamente da comunidade de CTF e Crackmes (HTB, THM, pwn.college, crackmes.one, MalwareBazaar, VulnHub, PicoCTF, KasperskyCTF, Pentestit.ru, Pwnable.tw, OverTheWire, RootMe, CTFTime, GoogleCTF, SANS, DEFCON, etc)
 - 📫 Contato: **marcos.tolosa@owasp.org** | [LinkedIn](https://www.linkedin.com/in/marcos-tolosa)
 
 ---
