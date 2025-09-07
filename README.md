@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marcos Tolosa (aka Tr0p)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=525&height=180&lines=rlwrap+ncat+-vnlp+1337;Ncat%3A+Listening+on+%5Bany%5D+1337;Ncat%3A+Connection+from+192.168.1.1%3A443.;PS+C%3A%5CUsers%5CAdministrator%3E++.%5Cpwn.exe;.......................Pwn3d!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=525&height=180&lines=rlwrap+ncat+-vnlp+1337;Ncat%3A+Listening+on+%5Bany%5D+1337;Ncat%3A+Connection+from+192.168.1.1%3A443.;PS+C%3A%5CUsers%5CUserr%3E++.%5Cpwn.exe;.......................Pwn3d!)](https://git.io/typing-svg)
 
 <div> 
   <a href = "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=marcos-tolosa"><img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
