@@ -7,7 +7,7 @@
   <a href = "mailto:marcos.tolosa@owasp.org"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em Red Team, Penetration Tests, Engenharia Reversa, automatizações e integrações. Neurodivergente (TEA Nível 1), uso meu foco analítico como superpoder para transformar ataques complexos em conhecimento acessível para todos.
+Trabalho com Segurança Ofensiva, +7 anos de experiência prática em Red Team, Penetration Tests, Engenharia Reversa, automatizações e integrações. Neurodivergente (TEA Nível 1), uso meu foco analítico como superpoder para transformar ataques complexos em conhecimento acessível para todos.
 
 - 🧠 Ensino técnicas de Segurança Ofensiva, Engenharia Reversa e Segurança de Aplicações 
 - 🌎 Participo ativamente da comunidade de CTF e Crackmes (HTB, THM, pwn.college, crackmes.one, MalwareBazaar, VulnHub, PicoCTF, KasperskyCTF, Pentestit.ru, Pwnable.tw, OverTheWire, RootMe, CTFTime, GoogleCTF, SANS, DEFCON, etc)
@@ -56,14 +56,14 @@ Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em
     Simulação realista de ameaças avançadas, desenvolvimento de TTPs customizadas, lateral movement e evasion.
     Experiência prática com chains de exploração, C2s stealth e engenharia de ataques.
 
-  - #### **Exploração & Engenharia Reversa Profunda**:
+  - #### **Exploração & Engenharia Reversa**:
     
-    Desenvolvimento e modificação de exploits personalizados, ROP/JOP chains, análise estática e dinâmica com `GDB-pwndbg`, `Frida`, `Ghidra`, `pwntools`, `x96dbg`, `Qiling`, `IDA Pro`, `Semgrep`  shellcode crafting e bypass de EDR.
+    Desenvolvimento e modificação de exploits personalizados, ROP/JOP chains, DEP/ASLR Bypass, análise estática e dinâmica com `GDB-pwndbg`, `Frida`, `Ghidra`, `pwntools`, `x96dbg`, `Qiling`, `IDA Pro`, `Semgrep`  shellcode crafting, entre outras.
 
   - #### **AI/ML Aplicados à Segurança Ofensiva**:
     
-    Criação de assistentes ofensivos com LLMs (`LangChain`, `Ollama`, `MCP`), automação de pentests e RE com IA, engenharia de prompts tática e integração com `GDB` e `Ghidra` para análise assistida.
-    Desenvolvimento de ferramentas como `riskIA-service`, `OSCP Insights`, `REload.Me` e assistentes de Red Team com LLMs.
+    Criação de assistentes ofensivos com LLMs (`LangChain`, `Ollama`, `MCP`), automação de pentests e RE com IA, bypass de LLM (`Prompt Injections`), engenharia de prompts tática e integração com `GDB` e `Ghidra` para análise assistida.
+    Desenvolvimento de ferramentas como `ARCTAX`, `MANW-NG`, `riskIA-service`, `OSCP Insights`, `REload.Me` e assistentes de Red Team com LLMs.
 
   - #### **AppSec & DevSecOps Avançado**:
     
@@ -76,8 +76,8 @@ Sou especialista em Segurança Ofensiva, com +7 anos de experiência prática em
   
   - #### **Ferramentas e Stack Técnica**:
     
-    BurpSuite Pro (avançado), Frida, Radare2, Ghidra, x96dbg, IDA Pro, ffuf, Nmap, SQLMap, Impacket, mitmproxy, tshark, entre outras.
-    Scripts ofensivos em `Python`, `Bash`, `PowerShell`, `JavaScript`. Automatizações com Regex, Semgrep, CodeQL, Shellcode encoders, DNS stealth...
+    `BurpSuite Pro (avançado)`, `Frida`, `Radare2`, `Ghidra`, `x96dbg`, `IDA Pro`, `ffuf`, `Nmap`, `SQLMap`, `Impacket`, `mitmproxy`, `tshark`, entre outras.
+    Scripts ofensivos em `Python`, `Bash`, `PowerShell`, `C/C++`, `JavaScript`. Automatizações com `Regex`, `Semgrep`, `CodeQL`, `Shellcode encoders`, `DNS stealth`...
 
 
 ---
