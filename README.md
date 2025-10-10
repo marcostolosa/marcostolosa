@@ -1,4 +1,4 @@
-# 👋 Hello friend, i'm Marcos Tolosa (aka Tr0p)
+# 👋 Hello friend, I'm Marcos Tolosa (aka Tr0p)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=525&height=180&lines=rlwrap+ncat+-vnlp+1337;Ncat%3A+Listening+on+%5Bany%5D+1337;Ncat%3A+Connection+from+10.16.1.69%3A443.;PS+C%3A%5CUsers%5CUser%3E++.%5Cpwn.exe;............Pwn3d!)](https://git.io/typing-svg)
 
