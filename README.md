@@ -50,35 +50,29 @@ For 7+ years, I've been in the trenches of Offensive Security - breaking systems
 <img align="center" alt="Haze-Pandas" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 </div>
 
-### 🧠 Áreas de Atuação 
+### 🧠 My Playground
 
-  - #### **Red Teaming & Emulação de APTs**:
-    
-    Simulação realista de ameaças avançadas, desenvolvimento de TTPs customizadas, lateral movement e evasion.
-    Experiência prática com chains de exploração, C2s stealth e engenharia de ataques.
+- Red Teaming & APT Emulation:
+  Architecting realistic simulations of advanced persistent threats (APTs). I'm specializing in developing custom Tactics, Techniques, and Procedures (TTPs), executing complex lateral movement, and implementing advanced evasion techniques. My expertise covers the full attack lifecycle, from crafting sophisticated exploit chains to deploying stealth Command & Control (C2) infrastructures.
 
-  - #### **Exploração & Engenharia Reversa**:
-    
-    Desenvolvimento e modificação de exploits personalizados, ROP/JOP chains, DEP/ASLR Bypass, análise estática e dinâmica com `GDB-pwndbg`, `Frida`, `Ghidra`, `pwntools`, `x96dbg`, `Qiling`, `IDA Pro`, `Semgrep`  shellcode crafting, entre outras.
+- Exploit Development & Reverse Engineering:
+  Proficient in developing and modifying bespoke exploits, including crafting ROP/JOP chains and bypassing memory protections like DEP and ASLR. My daily toolkit for static and dynamic analysis includes GDB-pwndbg, Frida, Ghidra, IDA Pro, x64/x32dbg, Qiling, and pwntools for rapid exploit scripting.
 
-  - #### **AI/ML Aplicados à Segurança Ofensiva**:
-    
-    Criação de assistentes ofensivos com LLMs (`LangChain`, `Ollama`, `MCP`), automação de pentests e RE com IA, bypass de LLM (`Prompt Injections`), engenharia de prompts tática e integração com `GDB` e `Ghidra` para análise assistida.
-    Desenvolvimento de ferramentas como `ARCTAX`, `MANW-NG`, `riskIA-service`, `OSCP Insights`, `REload.Me` e assistentes de Red Team com LLMs.
-
-  - #### **AppSec & DevSecOps Avançado**:
-    
-    SAST, DAST, revisão de código, Threat Modeling (STRIDE, CVSS, CWE, Mitre...), segurança em containers, pipelines `GitHub Actions`, `Terraform` e `Kubernetes` com hardening.
-    Evangelizador de cultura DevSecOps com foco em automação contínua e SDLC seguro com foco em shift left.
-
-  - #### **Segurança Cloud & Arquitetura Segura**:
-    
-    Hardening e baseline de `AWS`, `GCP` e `Azure`. Gestão de secrets, IAM, segurança em ambientes serverless e controle de superfície de ataque.
+- AI/ML in Offensive Security:
+  Pioneering the integration of AI/ML to enhance offensive operations. I build custom assistants and tooling with LLMs (using LangChain, Ollama, MCP) to automate penetration testing and reverse engineering workflows. My research includes LLM security (Prompt Injection), tactical prompt engineering, and integrating AI with debuggers for assisted analysis.
   
-  - #### **Ferramentas e Stack Técnica**:
-    
-    `BurpSuite Pro (avançado)`, `Frida`, `Radare2`, `Ghidra`, `x96dbg`, `IDA Pro`, `ffuf`, `Nmap`, `SQLMap`, `Impacket`, `mitmproxy`, `tshark`, entre outras.
-    Scripts ofensivos em `Python`, `Bash`, `PowerShell`, `C/C++`, `JavaScript`. Automatizações com `Regex`, `Semgrep`, `CodeQL`, `Shellcode encoders`, `DNS stealth`...
+  -  Authored Tools: ARCTAX, MANW-NG, riskIA-service, OSCP Insights, REload.Me, etc.
+
+- Advanced AppSec & DevSecOps:
+  Championing a robust DevSecOps culture by embedding security into the entire SDLC (shift-left approach). My expertise includes SAST, DAST, manual code review (sink to source and taint analysis), Threat Modeling (STRIDE, CVSS), and securing CI/CD pipelines (GitHub Actions), containers, and Infrastructure as Code (Terraform, Kubernetes). I find security flaws in code and pipelines before they hit production. My goal is to automate security so developers can't mess it up.
+
+- Cloud Security & Secure Architecture:
+  Designing and implementing secure cloud architectures in AWS, GCP, and Azure. My work focuses on security hardening, creating secure baselines, advanced IAM policies, secrets management, and reducing the attack surface in serverless and containerized environments.
+
+- My Go-To Stack:
+  - Heavy Hitters: BurpSuite Pro, pwntools, Frida, Radare2/Rizin, Ghidra, IDA Pro, x64/x32dbg, Impacket, ffuf, naabu/nuclei, Nmap, CrackMapExec, BloodHound, tshark, Havoc, Cobalt Strike, mitmproxy.
+  - Languages of Choice: Python for everything, Bash and PowerShell for speed, C/C++ when I need to get close to the metal and JavaScript to run everywhere.
+  - Techniques: If it can be scripted, I automate it. Advanced Regex, Semgrep, CodeQL, and custom encoders are part of my workflow.
 
 
 ---
