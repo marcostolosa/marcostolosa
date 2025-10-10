@@ -1,17 +1,18 @@
 # 👋 Hello friend, I'm Marcos Tolosa (aka Tr0p)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=525&height=180&lines=rlwrap+ncat+-vnlp+1337;Ncat%3A+Listening+on+%5Bany%5D+1337;Ncat%3A+Connection+from+10.16.1.69%3A443.;PS+C%3A%5CUsers%5CUser%3E++.%5Cbeacon666;............Pwn3d!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=525&height=180&lines=rlwrap+ncat+-vnlp+1337;Ncat%3A+Listening+on+%5Bany%5D+1337;Ncat%3A+Connection+from+10.16.1.69%3A443.;PS+C%3A%5CUsers%5CUser%3E++.%5Cpwn.bin;............Pwn3d!)](https://git.io/typing-svg)
 
 <div> 
   <a href = "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=marcos-tolosa"><img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
   <a href = "mailto:marcos.tolosa@owasp.org"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-Trabalho com Segurança Ofensiva, +7 anos de experiência prática em Red Team, Penetration Tests, Engenharia Reversa, automatizações e integrações. Neurodivergente (TEA Nível 1), uso meu foco analítico como superpoder para transformar ataques complexos em conhecimento acessível para todos.
+For 7+ years, I've been in the trenches of Offensive Security - breaking systems, reversing binaries, and automating the boring stuff. My brain is wired differently (ASD Level 1), giving me the hyperfocus needed to dismantle complex threats and then teach others how they tick. I don't just find vulnerabilities; I tear them apart to understand their core.
 
-- 🧠 Ensino técnicas de Segurança Ofensiva, Engenharia Reversa e Segurança de Aplicações 
-- 🌎 Participo ativamente da comunidade de CTF e Crackmes (HTB, THM, pwn.college, crackmes.one, MalwareBazaar, VulnHub, PicoCTF, KasperskyCTF, Pentestit.ru, Pwnable.tw, OverTheWire, RootMe, CTFTime, GoogleCTF, SANS, DEFCON, etc)
-- 📫 Contato: **marcos.tolosa@owasp.org** | [LinkedIn](https://www.linkedin.com/in/marcos-tolosa)
+- 🧠 I don't just hack; I teach: Offensive techniques, binary reversing, and application security - from the attacker's perspective.
+- 🌎 Always hunting: When I'm not on an engagement, you'll find me owning boxes on HTB, THM, pwn.college, and pretty much any other platform worth its salt (Crackmes.one, MalwareBazaar, DEFCON, etc.).
+
+📫 Contact: **marcos.tolosa@owasp.org** | [LinkedIn](https://www.linkedin.com/in/marcos-tolosa)
 
 ---
 
