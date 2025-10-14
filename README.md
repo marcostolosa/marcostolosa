@@ -75,7 +75,7 @@ For 7+ years, I've been in the trenches of Offensive Security - breaking systems
 - My Go-To Stack:
   - Heavy Hitters: BurpSuite Pro, pwntools, Frida, Radare2/Rizin, Ghidra, IDA Pro, x64/x32dbg, Impacket, ffuf, naabu/nuclei, Nmap, CrackMapExec, BloodHound, tshark, Havoc, Cobalt Strike, mitmproxy.
   - Languages of Choice: Python for everything, Bash and PowerShell for speed, C/C++ when I need to get close to the metal and JavaScript to run everywhere.
-  - Techniques: If it can be scripted, I automate it. Advanced Regex, Semgrep, CodeQL, and custom encoders are part of my workflow.
+  - Techniques: If it can be scripted, I automate it. Advanced Regex, Semgrep, CodeQL, and custom scripts are part of my workflow.
 
 
 ---
