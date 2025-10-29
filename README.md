@@ -7,18 +7,19 @@
 </div>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-tolosa/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MarcosTolosa_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Marcos.Tolosa) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?logo=gmail&logoColor=white)](mailto:marcos.tolosa@owasp.org)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/T9RVG3re2J) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-tolosa/) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?logo=gmail&logoColor=white)](mailto:marcos.tolosa@owasp.org) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MarcosTolosa_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Marcos.Tolosa) 
 
 ---
 
-For 5+ years, I've been in the trenches of Offensive Security - breaking systems, reversing binaries, and automating the boring stuff. My brain is wired differently (ASD Level 1), giving me the hyperfocus needed to dismantle complex threats and then teach others how they tick. I don't just find vulnerabilities; I tear them apart to understand their core.
+I've been in the trenches of Offensive Security - i'm a red teamer, bug bounty hunter, reverse engineer and I really like automating the boring part. My brain is wired differently (ASD Level 1), giving me the hyperfocus needed to dismantle complex threats and then teach others how they tick. I don't just find vulnerabilities; I tear them apart to understand their core.
 
-- 🧠 I don't just hack; I teach: Offensive techniques, binary reversing, and application security - from the attacker's perspective.
-- 🌎 Always hunting: When I'm not on an engagement, you'll find me owning boxes on HTB, THM, pwn.college, and pretty much any other platform worth its salt (Crackmes.one, MalwareBazaar, DEFCON, etc.).
-
-📫 Contact: **marcos.tolosa@owasp.org**
+- 🧠 I don't just hack; I teach what I learn: Offensive techniques, binary reversing, and application security, etc - from the attacker's perspective.
+- 🌎 Always hunting: When I'm not on an engagement, you'll find me owning boxes on HTB, HackerOne, Intigritti, THM, pwn.college, and pretty much any other platform worth its salt (Crackmes.one, MalwareBazaar, DEFCON, etc.).
 
 ---
+
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <div style="display: inline_block"><br>
 
@@ -53,6 +54,7 @@ For 5+ years, I've been in the trenches of Offensive Security - breaking systems
 <img align="center" alt="Haze-VirusTotal" height="50" width="50" src="https://img.icons8.com/?size=100&id=IMzgNpFETs1t&format=png&color=000000" />
 <img align="center" alt="Haze-Pandas" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 </div>
+
 
 ### 🧠 My Playground
 
