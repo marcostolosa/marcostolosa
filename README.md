@@ -5,17 +5,18 @@
 <div> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sudohopex.sudohopex" alt="Profile Views">
 </div>
-<div> 
-  <a href = "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=marcos-tolosa"><img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" target="_blank"></a>
-  <a href = "mailto:marcos.tolosa@owasp.org"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
-For 7+ years, I've been in the trenches of Offensive Security - breaking systems, reversing binaries, and automating the boring stuff. My brain is wired differently (ASD Level 1), giving me the hyperfocus needed to dismantle complex threats and then teach others how they tick. I don't just find vulnerabilities; I tear them apart to understand their core.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-tolosa/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MarcosTolosa_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Marcos.Tolosa) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?logo=gmail&logoColor=white)](mailto:marcos.tolosa@owasp.org)
+
+---
+
+For 5+ years, I've been in the trenches of Offensive Security - breaking systems, reversing binaries, and automating the boring stuff. My brain is wired differently (ASD Level 1), giving me the hyperfocus needed to dismantle complex threats and then teach others how they tick. I don't just find vulnerabilities; I tear them apart to understand their core.
 
 - 🧠 I don't just hack; I teach: Offensive techniques, binary reversing, and application security - from the attacker's perspective.
 - 🌎 Always hunting: When I'm not on an engagement, you'll find me owning boxes on HTB, THM, pwn.college, and pretty much any other platform worth its salt (Crackmes.one, MalwareBazaar, DEFCON, etc.).
 
-📫 Contact: **marcos.tolosa@owasp.org** | [LinkedIn](https://www.linkedin.com/in/marcos-tolosa)
+📫 Contact: **marcos.tolosa@owasp.org**
 
 ---
 
@@ -55,22 +56,12 @@ For 7+ years, I've been in the trenches of Offensive Security - breaking systems
 
 ### 🧠 My Playground
 
-- Red Teaming & APT Emulation:
-  Architecting realistic simulations of advanced persistent threats (APTs). I'm specializing in developing custom Tactics, Techniques, and Procedures (TTPs), executing complex lateral movement, and implementing advanced evasion techniques. My expertise covers the full attack lifecycle, from crafting sophisticated exploit chains to deploying stealth Command & Control (C2) infrastructures.
-
-- Exploit Development & Reverse Engineering:
-  Proficient in developing and modifying bespoke exploits, including crafting ROP/JOP chains and bypassing memory protections like DEP and ASLR. My daily toolkit for static and dynamic analysis includes GDB-pwndbg, Frida, Ghidra, IDA Pro, x64/x32dbg, Qiling, and pwntools for rapid exploit scripting.
-
-- AI/ML in Offensive Security:
-  Pioneering the integration of AI/ML to enhance offensive operations. I build custom assistants and tooling with LLMs (using LangChain, Ollama, MCP) to automate penetration testing and reverse engineering workflows. My research includes LLM security (Prompt Injection), tactical prompt engineering, and integrating AI with debuggers for assisted analysis.
-  
+- Red Teaming & APT Emulation
+- Exploit Development & Reverse Engineering
+- AI/ML in Offensive Security
   -  Authored Tools: ARCTAX, MANW-NG, riskIA-service, OSCP Insights, REload.Me, etc.
-
-- Advanced AppSec & DevSecOps:
-  Championing a robust DevSecOps culture by embedding security into the entire SDLC (shift-left approach). My expertise includes SAST, DAST, manual code review (sink to source and taint analysis), Threat Modeling (STRIDE, CVSS), and securing CI/CD pipelines (GitHub Actions), containers, and Infrastructure as Code (Terraform, Kubernetes). I find security flaws in code and pipelines before they hit production. My goal is to automate security so developers can't mess it up.
-
-- Cloud Security & Secure Architecture:
-  Designing and implementing secure cloud architectures in AWS, GCP, and Azure. My work focuses on security hardening, creating secure baselines, advanced IAM policies, secrets management, and reducing the attack surface in serverless and containerized environments.
+- Advanced AppSec & DevSecOps
+- Cloud Security & Secure Architecture
 
 - My Go-To Stack:
   - Heavy Hitters: BurpSuite Pro, pwntools, Frida, Radare2/Rizin, Ghidra, IDA Pro, x64/x32dbg, Impacket, ffuf, naabu/nuclei, Nmap, CrackMapExec, BloodHound, tshark, Havoc, Cobalt Strike, mitmproxy.
@@ -82,6 +73,7 @@ For 7+ years, I've been in the trenches of Offensive Security - breaking systems
 
 <div align="center">
   <a href="https://github.com/marcostolosa">
+      <h1> 📊 GitHub Stats</h1>
       <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcostolosa&show_icons=true&locale=pt-br&theme=dark#gh-dark-mode-only"/>
       <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostolosa&layout=compact&locale=pt-br&langs_count=7&theme=dark#gh-dark-mode-only"/>
 </div>
