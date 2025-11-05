@@ -70,6 +70,10 @@ I've been in the trenches of Offensive Security - i'm a red teamer, bug bounty h
   - Languages of Choice: Python for everything, Bash and PowerShell for speed, C/C++ when I need to get close to the metal and JavaScript to run everywhere.
   - Techniques: If it can be scripted, I automate it. Advanced Regex, Semgrep, CodeQL, and custom scripts are part of my workflow.
 
+<!-- Snake Animation Agrandie et Fonctionnelle -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg" width="1000" alt="snake gif" />
+</p>
 
 ---
 
