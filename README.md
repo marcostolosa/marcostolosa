@@ -11,7 +11,7 @@
 
 ---
 
-I've been in the trenches of Offensive Security - i'm a red teamer, bug bounty hunter, reverse engineer and I really like automating the boring part. My brain is wired differently (ASD Level 1), giving me the hyperfocus needed to dismantle complex threats and then teach others how they tick. I don't just find vulnerabilities; I tear them apart to understand their core.
+I've been in the trenches of Offensive Security for +5 years - i'm a red teamer, bug bounty hunter, reverse engineer and I really like automating the boring part. My brain is wired differently (ASD Level 1), giving me the hyperfocus needed to dismantle complex threats and then teach others how they tick. I don't just find vulnerabilities; I tear them apart to understand their core.
 
 - 🧠 I don't just hack; I teach what I learn: Offensive techniques, binary reversing, and application security, etc - from the attacker's perspective.
 - 🌎 Always hunting: When I'm not on an engagement, you'll find me owning boxes on HTB, HackerOne, Intigritti, THM, pwn.college, and pretty much any other platform worth its salt (Crackmes.one, MalwareBazaar, DEFCON, etc.).
