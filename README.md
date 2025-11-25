@@ -75,6 +75,7 @@ I've been in the trenches of Offensive Security for +5 years - i'm a red teamer,
       <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcostolosa&show_icons=true&locale=pt-br&theme=dark#gh-dark-mode-only"/>
       <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostolosa&layout=compact&locale=pt-br&langs_count=7&theme=dark#gh-dark-mode-only"/>
 </div>
+    
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcostolosa.marcostolosa" alt="Profile Views">
 </div>
