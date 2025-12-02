@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=525&height=180&lines=rlwrap+ncat+-vnlp+1337;Ncat%3A+Listening+on+%5Bany%5D+1337;Ncat%3A+Connection+from+10.16.1.69%3A443.;PS+C%3A%5CUsers%5CUser%3E++.%5Cpwn.bin;............Pwn3d!)](https://git.io/typing-svg)
 
-I've been in the trenches of Offensive Security for +5 years - i'm a red teamer, bug bounty hunter, reverse engineer and I really like automating the boring part. My brain is wired differently (ASD Level 1), giving me the hyperfocus needed to dismantle complex threats and then teach others how they tick. I don't just find vulnerabilities; I tear them apart to understand their core.
+I'm a red teamer, pentester, bug bounty hunter, reverse engineer and I really like automating the boring part. My brain is wired differently (ASD Level 1), giving me the hyperfocus needed to dismantle complex threats and then teach others how they tick. I don't just find vulnerabilities; I tear them apart to understand their core.
 
-- 🧠 I don't just hack; I teach what I learn: Offensive techniques, binary reversing, and application security, etc - from the attacker's perspective.
-- 🌎 Always hunting: When I'm not on an engagement, you'll find me owning boxes on HTB, HackerOne, Intigritti, THM, pwn.college, and pretty much any other platform worth its salt (Crackmes.one, MalwareBazaar, DEFCON, etc.).
+- I don't just hack; I teach what I learn: Offensive techniques, binary reversing, and application security, etc - from the attacker's perspective.
+- Always hunting: When I'm not on an engagement, you'll find me owning boxes on HTB, THM, researching HackerOne, Intigritti and learning more from pwn.college, malops and pretty much any other platform worth its salt (Crackmes.one, MalwareBazaar, DEFCON, etc.).
 
 ### 🛡️ Vulnerability Research & Disclosures
 - **[CVE-2025-10230 (CVSS 10.0)](https://aisle.com/blog/cve-2025-10230-the-cvss-100-vulnerability-that-hid-in-samba-for-13-years)**: Discovered a critical OS Command Injection vulnerability in Samba hidden for 13 years.
