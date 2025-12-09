@@ -9,6 +9,7 @@ I'm a red teamer, pentester, bug bounty hunter, reverse engineer and I really li
 
 ### 🛡️ Vulnerability Research & Disclosures
 - **[CVE-2025-10230 (CVSS 10.0)](https://aisle.com/blog/cve-2025-10230-the-cvss-100-vulnerability-that-hid-in-samba-for-13-years)**: Discovered a critical OS Command Injection vulnerability in Samba hidden for 13 years.
+- **[CVE-2025-67503 (CVSS 8.2)](https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-r9mh-4hc4-h2p3)**: Discovered a high Cross-Site Scripting (XSS) Reflected vulnerability in WeGIA platform.
 - **[Samba CTDB](https://gitlab.com/samba-team/samba/-/merge_requests/4240/diffs?commit_id=caa2ac41bf25c524cbe5079a450d87f30a25b0a2)**: Reported a Buffer Overflow vulnerability in the InfiniBand wrapper due to unsafe string handling.
   
 ## 🌐 Socials:
