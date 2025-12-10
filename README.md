@@ -75,10 +75,7 @@ I'm a red teamer, pentester, bug bounty hunter, reverse engineer and I really li
 
 ---
 
-<div align="center">
-  <a href="https://github.com/marcostolosa">
-    <p align="center" width="100%"><a href="https://github.com/marcostolosa"><img src="./github-metrics.svg"></a></p>
-</div>
+<p align="center" width="100%"><a href="https://github.com/marcostolosa"><img src="./github-metrics.svg"></a></p>
     
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcostolosa.marcostolosa" alt="Profile Views">
