@@ -77,8 +77,7 @@ I'm a red teamer, pentester, bug bounty hunter, reverse engineer and I really li
 
 <div align="center">
   <a href="https://github.com/marcostolosa">
-      <img align="" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcostolosa&show_icons=true&locale=pt-br&theme=dark#gh-dark-mode-only"/>
-      <img height="180em" width="" align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostolosa&layout=compact&locale=pt-br&langs_count=7&theme=dark#gh-dark-mode-only"/>
+    <p align="center" width="100%"><a href="https://github.com/marcostolosa"><img src="./github-metrics.svg"></a></p>
 </div>
     
 <div align="center">
