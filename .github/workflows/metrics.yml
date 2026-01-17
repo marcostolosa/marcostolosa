@@ -1,0 +1,30 @@
+name: Metrics
+on:
+  # Atualiza as 00:00 todos os dias
+  schedule:
+    - cron: "0 0 * * *"
+  # Permite que você rode manualmente na aba Actions para testar
+  workflow_dispatch:
+  # Roda sempre que você fizer um push na main/master
+  push:
+    branches: ["master", "main"]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token do GitHub (é gerado automaticamente, não precisa criar nada)
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Opções principais
+          user: marcostolosa
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          
+          # Nome do arquivo que será salvo no repo
+          filename: github-metrics.svg
