@@ -8,7 +8,7 @@ I'm a red teamer, pentester, bug bounty hunter, reverse engineer and I really li
 - Always hunting: When I'm not on an engagement, you'll find me owning boxes on HTB, THM, researching with BugCrowd, HackerOne, Intigritti and learning more from pwn.college, malops and pretty much any other platform worth its salt (Crackmes.one, MalwareBazaar, DEFCON, etc.).
 
 ### 🛡️ Vulnerability Research & Disclosures
-- **[CVE-2025-10230 (CVSS 10.0)](https://aisle.com/blog/CVE-2025-10230-the-cvss-100-vulnerability-that-hid-in-samba-for-13-years)**: Discovered a critical OS Command Injection vulnerability in Samba hidden for 13 years.
+- **[CVE-2025-10230 (CVSS 10.0)](https://aisle.com/blog/cve-2025-10230-the-cvss-100-vulnerability-that-hid-in-samba-for-13-years)**: Discovered a critical OS Command Injection vulnerability in Samba hidden for 13 years.
 - **[CVE-2026-23722 (CVSS 9.1) ](https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-g7hh-6qj7-mcqf)**: Dicovered a critical Cross-Site Scripting (XSS) allows arbitrary code execution and UI redressing.
 - **[CVE-2025-67503 (CVSS 8.2)](https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-r9mh-4hc4-h2p3)**: Discovered a high Cross-Site Scripting (XSS) Reflected vulnerability in WeGIA platform.
 - **[Unauthenticated OS Command Injection](https://bugcrowd.com/engagements/ncua-vdp/crowdstream)**: Dicovered a P1 Unauthenticated OS Command Injection in U.S. Gov. (NCUA).
