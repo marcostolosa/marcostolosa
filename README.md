@@ -25,10 +25,9 @@ I'm a red teamer, pentester, bug bounty hunter, reverse engineer and I really li
 
 ### 🧠 My Playground
 
-- Red Teaming & APT Emulation
+- Ethical Hacking, Red Teaming & APT Emulation
 - Exploit Development & Reverse Engineering
 - AI/ML in Offensive Security
-  -  Authored Tools: ARCTAX, MANW-NG, riskIA-service, OSCP Insights, REload.Me, etc.
 - Advanced AppSec & DevSecOps
 - Cloud Security & Secure Architecture
 
@@ -70,11 +69,6 @@ I'm a red teamer, pentester, bug bounty hunter, reverse engineer and I really li
 <img align="center" alt="Haze-VirusTotal" height="50" width="50" src="https://img.icons8.com/?size=100&id=IMzgNpFETs1t&format=png&color=000000" />
 <img align="center" alt="Haze-Pandas" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 </div>
-
-<!-- Snake Animation Agrandie et Fonctionnelle -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg" width="1000" alt="snake gif" />
-</p>
 
 ---
 
