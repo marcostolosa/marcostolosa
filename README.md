@@ -7,7 +7,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=marcostolosa&label=Recon%20hits&color=1ff773&style=flat-square)](https://github.com/marcostolosa)
 [![Followers](https://img.shields.io/github/followers/marcostolosa?label=Followers&style=flat-square&color=1ff773&labelColor=0d1117)](https://github.com/marcostolosa)
 ![Focus](https://img.shields.io/badge/focus-Offensive%20Security-1ff773?style=flat-square&labelColor=0d1117)
-![Status](https://img.shields.io/badge/status-hunting-1ff773?style=flat-square&labelColor=0d1117)
+![US Gov HoF](https://img.shields.io/badge/U.S.%20Gov%20Hall%20of%20Fame-6%C3%97-1ff773?style=flat-square&labelColor=0d1117)
+![CVSS](https://img.shields.io/badge/CVSS-10.0%20%C3%97%20Samba-red?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -15,7 +16,7 @@
 
 ## `> whoami`
 
-```c
+```
 Red teamer, pentester, bug bounty hunter and reverse engineer.
 I don't just find vulns - I tear them apart to understand their core,
 then automate the boring part and teach how they tick.
@@ -30,7 +31,7 @@ threats and turns them into writeups anyone can follow.
 
 ---
 
-## `> disclosures --list` 🛡️
+## `> disclosures --list` 
 
 Real findings, real impact. The ledger:
 
@@ -45,7 +46,26 @@ Real findings, real impact. The ledger:
 
 ---
 
-## `> cat arsenal.txt` ⚙️
+## `> hof --recognition` 
+
+**6× U.S. Government Hall of Fame** &nbsp;·&nbsp; `15 valid vulns` &nbsp;·&nbsp; `93.75% accuracy`
+
+| 🇺🇸 Agency | Program |
+|---|---|
+| 🚀 **NASA** | National Aeronautics and Space Administration |
+| 🏛️ **U.S. Dept. of Commerce** | Vulnerability Disclosure Program |
+| 🎖️ **Dept. of Veterans Affairs** | Vulnerability Disclosure Program |
+| 💳 **NCUA** | National Credit Union Administration |
+| ♻️ **EPA** | Environmental Protection Agency |
+| 🦅 **U.S. Fish & Wildlife Service** | Vulnerability Disclosure Program |
+
+<sub>+ 🇧🇪 Digital Flanders (Belgium Gov) · achievements: Submission Shogun L3 · Bounty Bee L4 · Collaboration Crusader L1</sub>
+
+<sub>Full trophy cabinet → **[bugcrowd.com/h/Tr0p](https://bugcrowd.com/h/Tr0p)**</sub>
+
+---
+
+## `> cat arsenal.txt` 
 
 ```bash
 [recon]        nmap · naabu · nuclei · ffuf · amass · httpx · subfinder
@@ -73,13 +93,13 @@ Real findings, real impact. The ledger:
 
 ---
 
-## `> ls ~/playground` 🧠
+## `> ls ~/playground` 
 
 `Red Teaming & APT Emulation` &nbsp;•&nbsp; `Exploit Dev & Reverse Engineering` &nbsp;•&nbsp; `Malware Analysis` &nbsp;•&nbsp; `AI/ML in Offensive Security` &nbsp;•&nbsp; `Advanced AppSec & DevSecOps` &nbsp;•&nbsp; `Cloud Security & Secure Architecture`
 
 ---
 
-## `> git log --stat` 📊
+## `> git log --stat` 
 
 <div align="center">
 
@@ -105,7 +125,7 @@ Real findings, real impact. The ledger:
 
 ---
 
-## `> nc -connect` 📡
+## `> nc -connect` 
 
 <div align="center">
 
