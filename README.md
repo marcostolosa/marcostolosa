@@ -1,76 +1,94 @@
-# 👋 Hello friend, I'm Marcos Tolosa (aka Tr0p)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=1FF773&multiline=true&width=525&height=180&lines=rlwrap+ncat+-vnlp+1337;Ncat%3A+Listening+on+%5Bany%5D+1337;Ncat%3A+Connection+from+10.16.1.69%3A443.;PS+C%3A%5CUsers%5CUser%3E++.%5Cpwn.bin;............Pwn3d!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=1FF773&center=true&vCenter=true&width=650&height=90&lines=%24+whoami;Marcos+Tolosa+%E2%80%94+aka+Tr0p;Red+Teamer+%7C+Exploit+Dev+%7C+Reverser;%5B%2B%5D+reverse+shell+caught+on+%3A443;NT+AUTHORITY%5CSYSTEM+...+Pwn3d!" alt="typing banner" />
 
-I'm a red teamer, pentester, bug bounty hunter, reverse engineer and I really like automating the boring part. My brain is wired differently (ASD Level 1), giving me the hyperfocus needed to dismantle complex threats and then teach others how they tick. I don't just find vulnerabilities; I tear them apart to understand their core.
+<br>
 
-- I don't just hack; I teach what I learn: Offensive techniques, binary reversing, and application security, etc - from the attacker's perspective.
-- Always hunting: When I'm not on an engagement, you'll find me owning boxes on HTB, THM, researching with BugCrowd, HackerOne, Intigritti and learning more from pwn.college, malops and pretty much any other platform worth its salt (Crackmes.one, MalwareBazaar, DEFCON, etc.).
+[![Profile Views](https://komarev.com/ghpvc/?username=marcostolosa&label=Recon%20hits&color=1ff773&style=flat-square)](https://github.com/marcostolosa)
+[![Followers](https://img.shields.io/github/followers/marcostolosa?label=Followers&style=flat-square&color=1ff773&labelColor=0d1117)](https://github.com/marcostolosa)
+![Focus](https://img.shields.io/badge/focus-Offensive%20Security-1ff773?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/status-hunting-1ff773?style=flat-square&labelColor=0d1117)
 
-### 🛡️ Vulnerability Research & Disclosures
-- **[CVE-2025-10230 (CVSS 10.0)](https://aisle.com/blog/cve-2025-10230-the-cvss-100-vulnerability-that-hid-in-samba-for-13-years)**: Discovered a critical OS Command Injection vulnerability in Samba hidden for 13 years.
-- **[CVE-2026-23722 (CVSS 9.1) ](https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-g7hh-6qj7-mcqf)**: Dicovered a critical Cross-Site Scripting (XSS) allows arbitrary code execution and UI redressing.
-- **[CVE-2025-67503 (CVSS 8.2)](https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-r9mh-4hc4-h2p3)**: Discovered a high Cross-Site Scripting (XSS) Reflected vulnerability in WeGIA platform.
-- **[Unauthenticated OS Command Injection](https://bugcrowd.com/engagements/ncua-vdp/crowdstream)**: Dicovered a P1 Unauthenticated OS Command Injection in U.S. Gov. (NCUA).
-- **[Blind XXE leading to Internal SSRF](https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program#program-activity)**: Discovered a XXE / SSRF leading to Internal Tomcat Manager Interface in Belgium Gov.
-- **[Samba CTDB](https://gitlab.com/samba-team/samba/-/merge_requests/4240/diffs?commit_id=caa2ac41bf25c524cbe5079a450d87f30a25b0a2)**: Discovered and reported a Buffer Overflow vulnerability in the InfiniBand wrapper due to unsafe string handling.
-  
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/T9RVG3re2J) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-tolosa/) [![Gmail](https://img.shields.io/badge/-Gmail-%23333?logo=gmail&logoColor=white)](mailto:marcos.tolosa@owasp.org) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MarcosTolosa_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Marcos.Tolosa) 
-
----
-
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🧠 My Playground
-
-- Ethical Hacking, Red Teaming & APT Emulation
-- Exploit Development & Reverse Engineering
-- AI/ML in Offensive Security
-- Advanced AppSec & DevSecOps
-- Cloud Security & Secure Architecture
-
-- My Go-To Stack:
-  - Heavy Hitters: BurpSuite Pro, pwntools, Frida, Radare2/Rizin, Ghidra, IDA Pro, x64/x32dbg, Impacket, ffuf, naabu/nuclei, Nmap, CrackMapExec, BloodHound, tshark, Havoc, Cobalt Strike, mitmproxy.
-  - Languages of Choice: Python for everything, Bash and PowerShell for speed, C/C++ when I need to get close to the metal and JavaScript to run everywhere.
-  - Techniques: If it can be scripted, I automate it. Advanced Regex, Semgrep, CodeQL, and custom scripts are part of my workflow.
-
-<div style="display: inline_block"><br>
-
-<img align="center" alt="Haze-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="center" alt="Haze-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="center" alt="Haze-Powershell" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-<img align="center" alt="Haze-Bash" height="50" width="50" src="https://img.icons8.com/?size=100&id=8gWOBXY72Osj&format=png&color=000000" />
-<img align="center" alt="Haze-C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="center" alt="Haze-Nmap" height="50" width="50" src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" />
-<img align="center" alt="Haze-JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="center" alt="Haze-Burp" height="50" width="50" src="https://img.icons8.com/?size=100&id=25250&format=png&color=ff6633" />
-<img align="center" alt="Haze-GitHubActions" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="center" alt="Haze-Tmux" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/tmux/tmux-original-wordmark.svg" />
-<img align="center" alt="Haze-Golang" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-<img align="center" alt="Haze-Cloudflare" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" />
-<img align="center" alt="Haze-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="center" alt="Haze-terraform" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-<img align="center" alt="Haze-selenium" height="50" width="50" src="https://img.icons8.com/?size=100&id=ZIQW0IkyKdZV&format=png&color=000000" />
-<img align="center" alt="Haze-tensorflow" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
-<img align="center" alt="Haze-scikitlearn" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-<img align="center" alt="Haze-metasploit" height="50" width="50" src="https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000" />
-<img align="center" alt="Haze-vim" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
-<img align="center" alt="Haze-kubernetes" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
-<img align="center" alt="Haze-Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-<img align="center" alt="Haze-Apple" height="50" width="50" src="https://img.icons8.com/?size=100&id=20821&format=png&color=000000" />
-<img align="center" alt="Haze-HuggingFace" height="50" width="50" src="https://img.icons8.com/?size=100&id=sop9ROXku5bb&format=png&color=000000" />
-<img align="center" alt="Haze-OpenSource" height="50" width="50" src="https://img.icons8.com/?size=100&id=63655&format=png&color=000000" />
-<img align="center" alt="Haze-Wireshark" height="50" width="50" src="https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=085DD0" />
-<img align="center" alt="Haze-Pepe" height="50" width="50" src="https://img.icons8.com/?size=100&id=2mhXYLZct4Sd&format=png&color=000000" />
-<img align="center" alt="Haze-Kali" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" />
-<img align="center" alt="Haze-Obsidian" height="50" width="50" src="https://img.icons8.com/?size=100&id=q53th37bGbV0&format=png&color=000000" />
-<img align="center" alt="Haze-VirusTotal" height="50" width="50" src="https://img.icons8.com/?size=100&id=IMzgNpFETs1t&format=png&color=000000" />
-<img align="center" alt="Haze-Pandas" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 </div>
 
 ---
+
+## `> whoami`
+
+```c
+Red teamer, pentester, bug bounty hunter and reverse engineer.
+I don't just find vulns - I tear them apart to understand their core,
+then automate the boring part and teach how they tick.
+
+Wired differently (ASD Lvl 1) → the hyperfocus that dismantles complex
+threats and turns them into writeups anyone can follow.
+```
+
+- 🔩 **Break → Understand → Automate → Teach.** Offensive technique, binary reversing and AppSec, always from the attacker's seat.
+- 🎯 **Always hunting.** HTB / THM boxes, research on **Bugcrowd · HackerOne · Intigriti · YesWeHack**, sharpening on pwn.college, Crackmes.one, MalwareBazaar & DEFCON.
+- 🧪 **Real environments only.** Isolated labs, working PoCs, detailed exploits - logs on the console, concrete proof, zero bullshit.
+
+---
+
+## `> disclosures --list` 🛡️
+
+Real findings, real impact. The ledger:
+
+| CVE / ID | Target | Class | Severity |
+|---|---|---|---|
+| **[CVE-2025-10230](https://aisle.com/blog/cve-2025-10230-the-cvss-100-vulnerability-that-hid-in-samba-for-13-years)** | Samba | OS Command Injection *(13 yrs hidden)* | `CVSS 10.0` 🔴 |
+| **[CVE-2026-23722](https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-g7hh-6qj7-mcqf)** | WeGIA | Stored XSS → RCE / UI redressing | `CVSS 9.1` 🔴 |
+| **[CVE-2025-67503](https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-r9mh-4hc4-h2p3)** | WeGIA | Reflected XSS | `CVSS 8.2` 🟠 |
+| **[NCUA VDP](https://bugcrowd.com/engagements/ncua-vdp/crowdstream)** | 🇺🇸 U.S. Gov | Unauthenticated OS Command Injection | `P1` 🔴 |
+| **[Digital Flanders](https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program#program-activity)** | 🇧🇪 Belgium Gov | Blind XXE → Internal SSRF *(Tomcat Manager)* | `High` 🟠 |
+| **[Samba CTDB](https://gitlab.com/samba-team/samba/-/merge_requests/4240/diffs?commit_id=caa2ac41bf25c524cbe5079a450d87f30a25b0a2)** | Samba | Buffer Overflow *(InfiniBand wrapper)* | `Memory Corruption` 🟠 |
+
+---
+
+## `> cat arsenal.txt` ⚙️
+
+```bash
+[recon]        nmap · naabu · nuclei · ffuf · amass · httpx · subfinder
+[exploitation] Burp Suite Pro · pwntools · Metasploit · sqlmap · mitmproxy
+[reversing]    IDA Pro · Ghidra · Radare2/Rizin · x64dbg · Frida · gdb-pwndbg
+[ad / redteam] BloodHound · Impacket · CrackMapExec · Certipy · Rubeus · Havoc · Cobalt Strike
+[cloud]        AWS · Azure · GCP · Terraform · Docker · Kubernetes
+[analysis]     Semgrep · CodeQL · advanced regex · custom tooling
+```
+
+<div align="center">
+
+**Languages of choice**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+*Python for everything · Bash & PowerShell for speed · C when I need to get close to the metal · JS to run everywhere. If it can be scripted, I automate it.*
+
+</div>
+
+---
+
+## `> ls ~/playground` 🧠
+
+`Red Teaming & APT Emulation` &nbsp;•&nbsp; `Exploit Dev & Reverse Engineering` &nbsp;•&nbsp; `Malware Analysis` &nbsp;•&nbsp; `AI/ML in Offensive Security` &nbsp;•&nbsp; `Advanced AppSec & DevSecOps` &nbsp;•&nbsp; `Cloud Security & Secure Architecture`
+
+---
+
+## `> git log --stat` 📊
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcostolosa&show_icons=true&hide_border=true&count_private=true&title_color=1ff773&icon_color=1ff773&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostolosa&layout=compact&hide_border=true&langs_count=8&title_color=1ff773&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
+
+<br>
+
+<img height="165" src="https://streak-stats.demolab.com?user=marcostolosa&hide_border=true&background=0d1117&stroke=1ff773&ring=1ff773&fire=1ff773&currStreakLabel=1ff773&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=1ff773" alt="streak" />
 
 <p align="center" width="100%">
   <a href="https://github.com/marcostolosa">
@@ -81,3 +99,28 @@ I'm a red teamer, pentester, bug bounty hunter, reverse engineer and I really li
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcostolosa.marcostolosa" alt="Profile Views">
 </div>
+
+
+</div>
+
+---
+
+## `> nc -connect` 📡
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-tolosa/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MarcosTolosa_)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/T9RVG3re2J)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Marcos.Tolosa)
+[![Email](https://img.shields.io/badge/OWASP-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.tolosa@owasp.org)
+
+</div>
+
+
+
+<div align="center">
+<br>
+<sub><code>PS C:\Users\Tr0p> exit &nbsp;# thanks for reading... now go own something! (with authorization).</code></sub>
+</div>
+
