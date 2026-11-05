@@ -1,146 +1,59 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=900&color=1FF773&center=true&vCenter=true&width=650&height=90&lines=%24+whoami;Marcos+Tolosa+%E2%80%94+aka+Tr0p;Red+Teamer+%7C+Exploit+Dev+%7C+Reverser;%5B%2B%5D+reverse+shell+caught+on+%3A443;NT+AUTHORITY%5CSYSTEM+...+Pwn3d!" alt="typing banner" />
-
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=marcostolosa&label=Recon%20hits&color=1ff773&style=flat-square)](https://github.com/marcostolosa)
-[![Followers](https://img.shields.io/github/followers/marcostolosa?label=Followers&style=flat-square&color=1ff773&labelColor=0d1117)](https://github.com/marcostolosa)
-![Focus](https://img.shields.io/badge/focus-Offensive%20Security-1ff773?style=flat-square&labelColor=0d1117)
-![US Gov HoF](https://img.shields.io/badge/U.S.%20Gov%20Hall%20of%20Fame-6%C3%97-1ff773?style=flat-square&labelColor=0d1117)
-![CVSS](https://img.shields.io/badge/CVSS-10.0%20%C3%97%20Samba-red?style=flat-square&labelColor=0d1117)
-
-</div>
-
----
-
-## `> whoami`
-
-```
-Red teamer, pentester, bug bounty hunter and reverse engineer.
-I don't just find vulns - I tear them apart to understand their core,
-then automate the boring part and teach how they tick.
-
-Wired differently (ASD Lvl 1) → the hyperfocus that dismantles complex
-threats and turns them into writeups anyone can follow.
+```nasm
+; =====================================================================
+;  sub_401000  whoami()                                   Rio de Janeiro
+; =====================================================================
+00401000   mov   name,   "Marcos Tolosa"
+00401005   mov   handle, "Tr0p"
+0040100A   mov   role,   "red team · exploit dev · reverse engineering"
+0040100F   mov   loop,   "break → understand → automate → teach"
+00401014   ret
 ```
 
-- 🔩 **Break → Understand → Automate → Teach.** Offensive technique, binary reversing and AppSec, always from the attacker's seat.
-- 🎯 **Always hunting.** HTB / THM boxes, research on **Bugcrowd · HackerOne · Intigriti · YesWeHack**, sharpening on pwn.college, Crackmes.one, MalwareBazaar & DEFCON.
-- 🧪 **Real environments only.** Isolated labs, working PoCs, detailed exploits - logs on the console, concrete proof, zero bullshit.
+### `disclosures()`
 
----
+```nasm
+00401140   CVE-2025-10230    samba    "OS command injection"          ; CVSS 10.0 · hidden 13 years
+00401168   CVE-2026-23722    wegia    "stored XSS → RCE"              ; CVSS 9.1
+00401190   CVE-2025-67503    wegia    "reflected XSS"                 ; CVSS 8.2
+004011B8   NCUA VDP          us_gov   "unauth OS command injection"   ; P1
+004011E0   Digital Flanders  be_gov   "blind XXE → internal SSRF"     ; High
+00401208   Samba CTDB        samba    "buffer overflow"               ; InfiniBand wrapper, sprintf()
+```
+<sub>xrefs → [CVE-2025-10230](https://aisle.com/blog/cve-2025-10230-the-cvss-100-vulnerability-that-hid-in-samba-for-13-years) · [CVE-2026-23722](https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-g7hh-6qj7-mcqf) · [CVE-2025-67503](https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-r9mh-4hc4-h2p3) · [NCUA](https://bugcrowd.com/engagements/ncua-vdp/crowdstream) · [Flanders](https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program#program-activity) · [Samba MR](https://gitlab.com/samba-team/samba/-/merge_requests/4240/diffs?commit_id=caa2ac41bf25c524cbe5079a450d87f30a25b0a2)</sub>
 
-## `> disclosures --list` 
+### `hall_of_fame()`
 
-Real findings, real impact. The ledger:
+```nasm
+00401300   push  "NASA"
+00401305   push  "U.S. Dept. of Commerce"
+0040130A   push  "Dept. of Veterans Affairs"
+0040130F   push  "NCUA"
+00401314   push  "EPA"
+00401319   push  "U.S. Fish & Wildlife Service"
+0040131E   call  bugcrowd.com/h/Tr0p            ; 6× U.S. Gov · 15 valid · 93.75% accuracy
+```
 
-| CVE / ID | Target | Class | Severity |
-|---|---|---|---|
-| **[CVE-2025-10230](https://aisle.com/blog/cve-2025-10230-the-cvss-100-vulnerability-that-hid-in-samba-for-13-years)** | Samba | OS Command Injection *(13 yrs hidden)* | `CVSS 10.0` 🔴 |
-| **[CVE-2026-23722](https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-g7hh-6qj7-mcqf)** | WeGIA | Stored XSS → RCE / UI redressing | `CVSS 9.1` 🔴 |
-| **[CVE-2025-67503](https://github.com/LabRedesCefetRJ/WeGIA/security/advisories/GHSA-r9mh-4hc4-h2p3)** | WeGIA | Reflected XSS | `CVSS 8.2` 🟠 |
-| **[NCUA VDP](https://bugcrowd.com/engagements/ncua-vdp/crowdstream)** | 🇺🇸 U.S. Gov | Unauthenticated OS Command Injection | `P1` 🔴 |
-| **[Digital Flanders](https://yeswehack.com/programs/digital-flanders-vulnerability-disclosure-program#program-activity)** | 🇧🇪 Belgium Gov | Blind XXE → Internal SSRF *(Tomcat Manager)* | `High` 🟠 |
-| **[Samba CTDB](https://gitlab.com/samba-team/samba/-/merge_requests/4240/diffs?commit_id=caa2ac41bf25c524cbe5079a450d87f30a25b0a2)** | Samba | Buffer Overflow *(InfiniBand wrapper)* | `Memory Corruption` 🟠 |
+### `tools()`
 
----
-
-## `> hof --recognition` 
-
-**6× U.S. Government Hall of Fame** &nbsp;·&nbsp; `15 valid vulns` &nbsp;·&nbsp; `93.75% accuracy`
-
-| 🇺🇸 Agency | Program |
+| symbol | does |
 |---|---|
-| 🚀 **NASA** | National Aeronautics and Space Administration |
-| 🏛️ **U.S. Dept. of Commerce** | Vulnerability Disclosure Program |
-| 🎖️ **Dept. of Veterans Affairs** | Vulnerability Disclosure Program |
-| 💳 **NCUA** | National Credit Union Administration |
-| ♻️ **EPA** | Environmental Protection Agency |
-| 🦅 **U.S. Fish & Wildlife Service** | Vulnerability Disclosure Program |
+| [`manw_ng`](https://github.com/marcostolosa/manw-ng) | Win32/NTAPI docs + live ctypes execution, for reversers |
+| [`ocrack`](https://github.com/marcostolosa/OCRack) | PDF translate + OCR, layout intact |
+| [`arctax`](https://github.com/marcostolosa/arctax) | prompt-injection research generator |
+| [`reload_me`](https://github.com/mindsecurity/REload.Me) | learn RE the simple way |
 
-<sub>+ 🇧🇪 Digital Flanders (Belgium Gov) · achievements: Submission Shogun L3 · Bounty Bee L4 · Collaboration Crusader L1</sub>
+### `imports()`
 
-<sub>Full trophy cabinet → **[bugcrowd.com/h/Tr0p](https://bugcrowd.com/h/Tr0p)**</sub>
-
----
-
-## `> cat arsenal.txt` 
-
-```bash
-[recon]        nmap · naabu · nuclei · ffuf · amass · httpx · subfinder
-[exploitation] Burp Suite Pro · pwntools · Metasploit · sqlmap · mitmproxy
-[reversing]    IDA Pro · Ghidra · Radare2/Rizin · x64dbg · Frida · gdb-pwndbg
-[ad / redteam] BloodHound · Impacket · CrackMapExec · Certipy · Rubeus · Havoc · Cobalt Strike
-[cloud]        AWS · Azure · GCP · Terraform · Docker · Kubernetes
-[analysis]     Semgrep · CodeQL · advanced regex · custom tooling
+```
+IDA Pro · Ghidra · Rizin · x64dbg · Frida · pwndbg · BloodHound · Impacket · Certipy
+Rubeus · Havoc · Cobalt Strike · Burp Pro · pwntools · Semgrep · CodeQL · nuclei · ffuf
+python · go · c/c++ · bash · powershell
 ```
 
-<div align="center">
+<img src="./github-metrics.svg" alt="GitHub activity metrics" width="100%">
 
-**Languages of choice**
+### `connect()`
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![C](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[mindsecurity.org](https://mindsecurity.org) · [writeups](https://mindsecurity.org/writeups/) · [bugcrowd](https://bugcrowd.com/h/Tr0p) · [linkedin](https://www.linkedin.com/in/marcos-tolosa/) · [youtube](https://youtube.com/@Marcos.Tolosa) · [x](https://twitter.com/MarcosTolosa_) · [discord](https://discord.gg/T9RVG3re2J) · `marcos.tolosa@owasp.org`
 
-*Python for everything · Bash & PowerShell for speed · C when I need to get close to the metal · JS to run everywhere. If it can be scripted, I automate it.*
-
-</div>
-
----
-
-## `> ls ~/playground` 
-
-`Red Teaming & APT Emulation` &nbsp;•&nbsp; `Exploit Dev & Reverse Engineering` &nbsp;•&nbsp; `Malware Analysis` &nbsp;•&nbsp; `AI/ML in Offensive Security` &nbsp;•&nbsp; `Advanced AppSec & DevSecOps` &nbsp;•&nbsp; `Cloud Security & Secure Architecture`
-
----
-
-## `> git log --stat` 
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marcostolosa&show_icons=true&hide_border=true&count_private=true&title_color=1ff773&icon_color=1ff773&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcostolosa&layout=compact&hide_border=true&langs_count=8&title_color=1ff773&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
-
-<br>
-
-<img height="165" src="https://streak-stats.demolab.com?user=marcostolosa&hide_border=true&background=0d1117&stroke=1ff773&ring=1ff773&fire=1ff773&currStreakLabel=1ff773&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideLabels=1ff773" alt="streak" />
-
-<p align="center" width="100%">
-  <a href="https://github.com/marcostolosa">
-    <img src="./github-metrics.svg">
-  </a>
-</p>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=marcostolosa.marcostolosa" alt="Profile Views">
-</div>
-
-
-</div>
-
----
-
-## `> nc -connect` 
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-tolosa/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/MarcosTolosa_)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/T9RVG3re2J)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Marcos.Tolosa)
-[![Email](https://img.shields.io/badge/OWASP-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcos.tolosa@owasp.org)
-
-</div>
-
-
-
-<div align="center">
-<br>
-<sub><code>PS C:\Users\Tr0p> exit &nbsp;# thanks for reading... now go own something! (with authorization).</code></sub>
-</div>
-
+<sub>`; authorized targets only`</sub>
